@@ -58,17 +58,17 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12422}
+      Script: {instanceID: 11558}
     - Class: 114
-      Script: {instanceID: 12818}
+      Script: {instanceID: 11956}
     - Class: 114
-      Script: {instanceID: 13276}
+      Script: {instanceID: 12416}
     - Class: 114
-      Script: {instanceID: 13452}
+      Script: {instanceID: 12594}
     - Class: 114
-      Script: {instanceID: 13720}
+      Script: {instanceID: 12864}
     - Class: 114
-      Script: {instanceID: 13840}
+      Script: {instanceID: 12986}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -615,4 +615,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u8DB3\u7403.unity"
-  playerPath: C:/Users/morgan/Unity/Unity_ML_Football/Unity_ML_Football/Web
+  playerPath: C:/Users/morgan/Unity/Unity_ML_Football/Web
